@@ -1,0 +1,23 @@
+---
+title: "challenge 1"
+author: "Liu Yingzhe"
+date: "2023-08-20"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Hello, I am Liu Yingzhe. I am a Year 3 psychology student with a second major in Communciations and New Media. I am relaly excited for this module and hopefully I will be able to fufil my dream of learning how to code~ 
+
+```{r, out.height= "800px",out.width= "550px",echo=TRUE,eval=TRUE,fig.cap="Me in Taiwan!"}
+knitr::include_graphics("C:/Users/angel/Downloads/Telegram Desktop/photo_2023-08-21_15-36-18.jpg") 
+```
+
+
+
